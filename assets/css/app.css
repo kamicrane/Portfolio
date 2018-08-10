@@ -2690,7 +2690,7 @@ a.btn-outline-dark.focus {
 }
 
 hr {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, .3);
   height: 1px;
   border: 0;
   margin-right: 0;
@@ -10163,4 +10163,8 @@ body.loaded:after {
 
 .highlight {
   color:#e24000;
+}
+
+strong {
+  font-weight: 800;
 }
